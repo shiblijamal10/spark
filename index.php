@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
 
-    <title>Basic Banking System</title>
+    <title>BANKING SYSTEM</title>
   </head>
 
   <body>
@@ -25,12 +25,12 @@
             <div class="row intro py-1">
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
-                  <h3>Welcome to</h3>
+                  <h3>Welcome </h3>
                   <h1>THE BANK OF SPARKS FOUNDATION</h1>
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
-                <img class="im" src="img/bank.png" class="img-fluid pt-2">
+                <img class="im" src="../Basic/img/bitcoin.png">
               </div>
             </div>
 
@@ -38,10 +38,11 @@
           <br>
           <br>
           <br>
-          <h3 class="action" ><span style="font-family: 'Roboto Slab', serif">CHOOSE AN ACTION</h3></span>
-            <div class="column activity text-center">
+          <h3 class="action" ><span style="font-family: 'Roboto Slab', serif">CHOOSE AN ACTION TO PERFORM</h3></span>
+            <div class="column activity text-center"  style="	display: flex;
+                  margin: 50px 100px;">
                   
-                  <div class="col-md act">
+                  <div class="col-md act" >
                    
                     <br>
                     <br>
@@ -62,7 +63,7 @@
       </div>
       <br>
       <footer class="text-center mt-5 py-2">
-        <p>A Project by <b>PHILONA REETHA SEBASTIAN</b> <br>for The Sparks Foundation </p>
+        <p>A Project by <b>SHIBLI JAMAL</b> <br>For The Sparks Foundation </p>
       </footer>
      
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

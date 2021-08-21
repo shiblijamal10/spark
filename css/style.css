@@ -51,6 +51,11 @@ footer p{
 	text-decoration: underline;
 	font-family: 'Roboto Slab', serif;
 }
+.act{
+	display: flex;
+    margin: 50px 100px;
+}
+
 
 @media only screen and (orientation:portrait){
 	.intro{

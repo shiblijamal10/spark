@@ -53,16 +53,16 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'Philona ', 'philona@gmail.com', 5000),
-(2, 'Nivya', 'nivya@gmail.com', 6000),
-(3, 'Devika', 'devika@gmail.com', 3000),
-(4, 'Neeraja', 'neeraja@gmail.com', 5000),
-(5, 'Sreya', 'sreya@gmail.com', 2000),
-(6, 'Nisha', 'nisha@gmail.com', 6000),
-(7, 'Irene', 'irene@gmail.com', 7000),
-(8, 'Tom', 'tom@gmail.com', 5000),
-(9, 'Jerry', 'jerry@gmail.com', 1000),
-(10, 'Justin', 'justin@gmail.com', 9000);
+(1, 'Alpha ', 'alpha@gmail.com', 5000),
+(2, 'Beta', 'beta@gmail.com', 6000),
+(3, 'Gamma', 'Gamma@gmail.com', 3000),
+(4, 'lamda', 'lamda@gmail.com', 5000),
+(5, 'delta', 'delta@gmail.com', 2000),
+(6, 'ashu', 'ashu@gmail.com', 6000),
+(7, 'simran', 'simran@gmail.com', 7000),
+(8, 'gilfyole', 'gilfyole@gmail.com', 5000),
+(9, 'dinesh', 'dinesh@gmail.com', 1000),
+(10, 'bighead', 'bighead@gmail.com', 9000);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
